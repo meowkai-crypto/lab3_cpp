@@ -1,0 +1,8 @@
+# Артефакты компиляции
+*.dSYM/
+bad_code
+app
+a.out
+
+# macOS
+.DS_Store
